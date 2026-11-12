@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yodaleph
-- 👀 I’m interested in Python Programming, Machine learning, Deep Learning and Artificial Intelligence
+- 👀 I’m interested in Python Programming, Machine learning, Backend Programming,  Deep Learning and Artificial Intelligence
 - 🌱 I’m currently learning Recurrent and Graphical Nueral Net Works
 - 💞️ I’m looking to collaborate on Building SOMs, Machines and Data science and Machine Learning projects
 - 📫 How to reach me email: aboladedanieloyinlolaoluwa@gmail.com Contact: +23409086118655
